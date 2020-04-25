@@ -1,1 +1,2 @@
 this is a modified text
+New line by others
