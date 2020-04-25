@@ -1,2 +1,6 @@
 this is a modified text
+<<<<<<< HEAD
 added line by me
+=======
+New line by others
+>>>>>>> d9edf61904baaa57df08768a9ba899cf877cc314
